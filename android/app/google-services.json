@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599391465860",
+    "project_id": "planning-with-ai-e698e",
+    "storage_bucket": "planning-with-ai-e698e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599391465860:android:eb910546724838e60aedd1",
+        "android_client_info": {
+          "package_name": "com.mindcare.mindcare_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YtheV1CRiFW4yHPti07UfNCeMIOM1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599391465860:android:c2515dbf3266ae5c0aedd1",
+        "android_client_info": {
+          "package_name": "com.mindcare_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YtheV1CRiFW4yHPti07UfNCeMIOM1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
